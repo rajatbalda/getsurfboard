@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+Disallow: /deals/
+Disallow: /medley/
+Disallow: /resume.pdf
